@@ -4,8 +4,7 @@ API
 .. autosummary::
    :toctree: generated
 
-   TingTing
-
+   IRIS
 
 Authentication
 ---------------
